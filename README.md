@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 Eu sou uma pessoa desenvolvedora Front-end e estudante do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará. <br>
-### 🖥️ O que você vai encontrar no meu perfil
+### 🔎 O que você vai encontrar no meu perfil
 - Projetos Front-end
 - Exercícios de linguagens que estou estudando
 - Trabalhos da faculdade
@@ -40,7 +40,11 @@ diferentes áreas dentro do setor de tecnologia.
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=4041EA&border_color=000&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=4041EA&border_color=000&title_color=FFF&text_color=FFF) <br><br>
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoAlejandroDev&repo=cardapio-online&bg_color=4041EA&border_color=000&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/BrunoAlejandroDev/cardapio-online.git)
+## 🏅 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoAlejandroDev&theme=transparent&bg_color=4041EA&border_color=000&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrunoAlejandroDev&bg_color=4041EA&border_color=000&title_color=FFF&text_color=FFF)
+
+## 🖥️ Repositórios em Destaque
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoAlejandroDev&repo=cardapio-online&bg_color=A738E0&border_color=000&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/BrunoAlejandroDev/cardapio-online.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoAlejandroDev&repo=landing-page-barbearia&bg_color=A738E0&border_color=000&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/BrunoAlejandroDev/landing-page-barbearia.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoAlejandroDev&repo=nlw-expert-front-end-quiz&bg_color=A738E0&border_color=000&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/BrunoAlejandroDev/nlw-expert-front-end-quiz.git)
